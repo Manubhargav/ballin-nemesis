@@ -1,7 +1,7 @@
 #!/bin/bash
 printf "\n\n";
 
-echo " WPSPin.sh <phoenix!>";
+echo " WPSpin.sh <phoenix!>";
 
 echo " Reverse Engineering Dlink's default wps pin generated based on MAC of the device ";
 
